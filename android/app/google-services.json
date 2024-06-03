@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "618104758502",
+    "firebase_url": "https://gymphile-83234-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gymphile-83234",
+    "storage_bucket": "gymphile-83234.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618104758502:android:56412a8d9b926d15f2db27",
+        "android_client_info": {
+          "package_name": "com.example.gym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618104758502-6828s2sfs6k2hadhhk7i5h990e7itc49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3hYotm7rOX1NHPXBxFvNgbiJ5tiaHFYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618104758502-6828s2sfs6k2hadhhk7i5h990e7itc49.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "618104758502-an9600bfp42n48k2hl0gblihcq6mq5t9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gym"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618104758502:android:09dd40dcd33d369ff2db27",
+        "android_client_info": {
+          "package_name": "com.example.gymmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618104758502-6828s2sfs6k2hadhhk7i5h990e7itc49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3hYotm7rOX1NHPXBxFvNgbiJ5tiaHFYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618104758502-6828s2sfs6k2hadhhk7i5h990e7itc49.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "618104758502-an9600bfp42n48k2hl0gblihcq6mq5t9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gym"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618104758502:android:932aded1ced73475f2db27",
+        "android_client_info": {
+          "package_name": "com.gymphile.gymphile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618104758502-6828s2sfs6k2hadhhk7i5h990e7itc49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3hYotm7rOX1NHPXBxFvNgbiJ5tiaHFYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618104758502-6828s2sfs6k2hadhhk7i5h990e7itc49.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "618104758502-an9600bfp42n48k2hl0gblihcq6mq5t9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gym"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
